@@ -1,0 +1,44 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "b289d0cd-a82f-4caa-9d80-9e3fd6977573",
+        "line": 1,
+        "version": 261,
+        "index": 0
+      }
+    ],
+    "website/auth.py": [
+      {
+        "id": "c6f04afa-daa7-4c19-94c2-b84abed1d608",
+        "line": 74,
+        "version": 2715,
+        "index": 2598
+      }
+    ],
+    "website/templates/base.html": [
+      {
+        "id": "16dd654a-54cd-4ec8-a7ff-9226edb0f59c",
+        "line": 40,
+        "version": 298,
+        "index": 1439
+      }
+    ],
+    "website/templates/home.html": [
+      {
+        "id": "24045bef-e99f-496a-926d-502dc4dea0d4",
+        "line": 17,
+        "version": 594,
+        "index": 578
+      }
+    ],
+    "website/views.py": [
+      {
+        "id": "5daf1f98-ab97-4582-aa73-88f2bbea19df",
+        "line": 8,
+        "version": 618,
+        "index": 221
+      }
+    ]
+  }
+}
